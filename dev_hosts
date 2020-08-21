@@ -4,3 +4,4 @@
 192.168.1.173 sina.snapshot.quant.dachengtech.cn
 192.168.1.173 dataprovider.quant.dachengtech.cn
 192.168.1.100 postgres.quant.dachengtech.cn
+192.168.1.100 redis.quant.dachengtech.cn
