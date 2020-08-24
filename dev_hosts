@@ -1,7 +1,8 @@
-192.168.1.200 sina.snapshot.quant.dachengtech.cn
-192.168.1.100 airflow.quant.dachengtech.cn
-192.168.1.100 pentaho.quant.dachengtech.cn
-192.168.1.100 dataprovider.quant.dachengtech.cn
-192.168.1.101 mongodb.quant.dachengtech.cn
-192.168.1.101 postgres.quant.dachengtech.cn
-192.168.1.101 redis.quant.dachengtech.cn
+192.168.1.102 sina.snapshot.quant.dachengtech.cn
+192.168.1.102 portainer.quant.dachengtech.cn
+192.168.1.102 pentaho.quant.dachengtech.cn
+192.168.1.102 airflow.quant.dachengtech.cn
+192.168.1.102 dataprovider.quant.dachengtech.cn
+192.168.1.102 mongodb.quant.dachengtech.cn
+192.168.1.102 postgres.quant.dachengtech.cn
+192.168.1.102 redis.quant.dachengtech.cn
