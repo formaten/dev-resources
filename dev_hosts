@@ -1,3 +1,4 @@
+# For PROD
 192.168.1.100 sina.snapshot.quant.dachengtech.cn
 192.168.1.100 portainer.quant.dachengtech.cn
 192.168.1.100 pentaho.quant.dachengtech.cn
@@ -9,9 +10,12 @@
 192.168.1.100 mysql.quant.dachengtech.cn
 192.168.1.100 zk.quant.dachengtech.cn
 
+# FOR UAT & DEV MANAGEMENT
 192.168.1.200 uat-dev-host-1
 192.168.1.200 portainer.quant.uat_dev.dachengtech.cn
+192.168.1.200 adminer.quant.uat_dev.dachengtech.cn
 
+# FOR DEV
 192.168.1.201 sina.snapshot.quant.dev.dachengtech.cn
 192.168.1.201 pentaho.quant.dev.dachengtech.cn
 192.168.1.201 airflow.quant.dev.dachengtech.cn
@@ -22,6 +26,7 @@
 192.168.1.201 mysql.quant.dev.dachengtech.cn
 192.168.1.201 zk.quant.dev.dachengtech.cn
 
+# FOR UAT
 192.168.1.202 sina.snapshot.quant.uat.dachengtech.cn
 192.168.1.202 pentaho.quant.uat.dachengtech.cn
 192.168.1.202 airflow.quant.uat.dachengtech.cn
