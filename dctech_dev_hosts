@@ -11,9 +11,9 @@
 192.168.1.100 zk.quant.dachengtech.cn
 
 # FOR UAT & DEV MANAGEMENT
-192.168.1.200 uat-dev-host-1
-192.168.1.200 portainer.quant.uat_dev.dachengtech.cn
-192.168.1.200 adminer.quant.uat_dev.dachengtech.cn
+192.168.1.200 internal-host-1
+192.168.1.200 portainer.quant.internal.dachengtech.cn
+192.168.1.200 adminer.quant.internal.dachengtech.cn
 
 # FOR DEV
 192.168.1.201 sina.snapshot.quant.dev.dachengtech.cn
