@@ -2,8 +2,8 @@
 
 # FOR UAT & DEV MANAGEMENT
 192.168.1.200 cndataman-internal-host-1
-192.168.1.200 portainer.quant.internal.cndataman.org
-192.168.1.200 adminer.quant.internal.cndataman.org
+192.168.1.200 portainer.internal.cndataman.org
+192.168.1.200 adminer.internal.cndataman.org
 
 # FOR DEV
 192.168.1.201 apis.dev.cndataman.org
