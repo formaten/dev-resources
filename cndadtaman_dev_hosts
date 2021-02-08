@@ -15,10 +15,10 @@
 192.168.1.201 mysql.dev.cndataman.org
 
 # FOR UAT
-192.168.1.202 apis.dev.cndataman.org
-192.168.1.202 rds.dev.cndataman.org
-192.168.1.202 rcs.dev.cndataman.org
-192.168.1.202 mongodb.dev.cndataman.org
-192.168.1.202 selenium.dev.cndataman.org
-192.168.1.202 redis.dev.cndataman.org
-192.168.1.202 mysql.dev.cndataman.org
+192.168.1.202 apis.uat.cndataman.org
+192.168.1.202 rds.uat.cndataman.org
+192.168.1.202 rcs.uat.cndataman.org
+192.168.1.202 mongodb.uat.cndataman.org
+192.168.1.202 selenium.uat.cndataman.org
+192.168.1.202 redis.uat.cndataman.org
+192.168.1.202 mysql.uat.cndataman.org
