@@ -1,0 +1,24 @@
+# For PROD
+
+# FOR UAT & DEV MANAGEMENT
+192.168.1.200 cndataman-internal-host-1
+192.168.1.200 portainer.quant.internal.cndataman.org
+192.168.1.200 adminer.quant.internal.cndataman.org
+
+# FOR DEV
+192.168.1.201 apis.dev.cndataman.org
+192.168.1.201 rds.dev.cndataman.org
+192.168.1.201 rcs.dev.cndataman.org
+192.168.1.201 mongodb.dev.cndataman.org
+192.168.1.201 selenium.dev.cndataman.org
+192.168.1.201 redis.dev.cndataman.org
+192.168.1.201 mysql.dev.cndataman.org
+
+# FOR UAT
+192.168.1.202 apis.dev.cndataman.org
+192.168.1.202 rds.dev.cndataman.org
+192.168.1.202 rcs.dev.cndataman.org
+192.168.1.202 mongodb.dev.cndataman.org
+192.168.1.202 selenium.dev.cndataman.org
+192.168.1.202 redis.dev.cndataman.org
+192.168.1.202 mysql.dev.cndataman.org
