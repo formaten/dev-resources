@@ -13,6 +13,7 @@
 192.168.1.201 selenium.dev.cndataman.org
 192.168.1.201 redis.dev.cndataman.org
 192.168.1.201 mysql.dev.cndataman.org
+192.168.1.201 resume.data.dev.cndataman.org
 
 # FOR UAT
 192.168.1.202 apis.uat.cndataman.org
@@ -22,3 +23,4 @@
 192.168.1.202 selenium.uat.cndataman.org
 192.168.1.202 redis.uat.cndataman.org
 192.168.1.202 mysql.uat.cndataman.org
+192.168.1.202 resume.data.uat.cndataman.org
