@@ -11,6 +11,8 @@
 192.168.1.201 rcs.dev.cndataman.org
 192.168.1.201 mongodb.dev.cndataman.org
 192.168.1.201 selenium.dev.cndataman.org
+192.168.1.201 chrome.selenium.dev.cndataman.org
+192.168.1.201 firefox.selenium.dev.cndataman.org
 192.168.1.201 redis.dev.cndataman.org
 192.168.1.201 mysql.dev.cndataman.org
 192.168.1.201 resume.data.dev.cndataman.org
