@@ -25,6 +25,7 @@
 192.168.1.201 redis.quant.dev.dachengtech.cn
 192.168.1.201 mysql.quant.dev.dachengtech.cn
 192.168.1.201 zk.quant.dev.dachengtech.cn
+192.168.1.201 rabbitmq.quant.dev.dachengtech.cn
 
 # FOR UAT
 192.168.1.202 sina.snapshot.quant.uat.dachengtech.cn
