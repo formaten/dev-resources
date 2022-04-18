@@ -27,13 +27,13 @@
 192.168.1.201 zk.quant.dev.dachengtech.cn
 192.168.1.201 rabbitmq.quant.dev.dachengtech.cn
 
-# FOR UAT
-192.168.1.202 sina.snapshot.quant.uat.dachengtech.cn
-192.168.1.202 pentaho.quant.uat.dachengtech.cn
-192.168.1.202 airflow.quant.uat.dachengtech.cn
-192.168.1.202 dataprovider.quant.uat.dachengtech.cn
-192.168.1.202 mongodb.quant.uat.dachengtech.cn
-192.168.1.202 postgres.quant.uat.dachengtech.cn
-192.168.1.202 redis.quant.uat.dachengtech.cn
-192.168.1.202 mysql.quant.uat.dachengtech.cn
-192.168.1.202 zk.quant.uat.dachengtech.cn
+# FOR SIT
+192.168.1.202 sina.snapshot.quant.sit.dachengtech.cn
+192.168.1.202 pentaho.quant.sit.dachengtech.cn
+192.168.1.202 airflow.quant.sit.dachengtech.cn
+192.168.1.202 dataprovider.quant.sit.dachengtech.cn
+192.168.1.202 mongodb.quant.sit.dachengtech.cn
+192.168.1.202 postgres.quant.sit.dachengtech.cn
+192.168.1.202 redis.quant.sit.dachengtech.cn
+192.168.1.202 mysql.quant.sit.dachengtech.cn
+192.168.1.202 zk.quant.sit.dachengtech.cn
