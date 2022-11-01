@@ -15,6 +15,7 @@
 192.168.1.200 portainer.quant.internal.dachengtech.cn
 
 # FOR DEV MIDDLEWARES
+192.168.1.201 grafana.dev.dachengtech.cn
 192.168.1.201 airflow.dev.dachengtech.cn
 192.168.1.201 mongodb.dev.dachengtech.cn
 192.168.1.201 postgres.dev.dachengtech.cn
@@ -28,6 +29,7 @@
 192.168.1.201 dataprovider.quant.dev.dachengtech.cn
 
 # FOR SIT MIDDLEWARES
+192.168.1.202 grafana.sit.dachengtech.cn
 192.168.1.202 airflow.sit.dachengtech.cn
 192.168.1.202 mongodb.sit.dachengtech.cn
 192.168.1.202 postgres.sit.dachengtech.cn
