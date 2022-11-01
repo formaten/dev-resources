@@ -10,30 +10,32 @@
 192.168.1.100 mysql.quant.dachengtech.cn
 192.168.1.100 zk.quant.dachengtech.cn
 
-# FOR UAT & DEV MANAGEMENT
+# FOR SIT & DEV MANAGEMENT
 192.168.1.200 dctech-internal-host-1
 192.168.1.200 portainer.quant.internal.dachengtech.cn
-192.168.1.200 adminer.quant.internal.dachengtech.cn
 
-# FOR DEV
-192.168.1.201 sina.snapshot.quant.dev.dachengtech.cn
-192.168.1.201 pentaho.quant.dev.dachengtech.cn
-192.168.1.201 airflow.quant.dev.dachengtech.cn
+# FOR DEV MIDDLEWARES
+192.168.1.201 airflow.dev.dachengtech.cn
+192.168.1.201 mongodb.dev.dachengtech.cn
+192.168.1.201 postgres.dev.dachengtech.cn
+192.168.1.201 redis.dev.dachengtech.cn
+192.168.1.201 mysql.dev.dachengtech.cn
+192.168.1.201 zk.dev.dachengtech.cn
+192.168.1.201 rabbitmq.dev.dachengtech.cn
+
+# FOR DEV QUANT
+192.168.1.201 master.quant.dev.dachengtech.cn
 192.168.1.201 dataprovider.quant.dev.dachengtech.cn
-192.168.1.201 mongodb.quant.dev.dachengtech.cn
-192.168.1.201 postgres.quant.dev.dachengtech.cn
-192.168.1.201 redis.quant.dev.dachengtech.cn
-192.168.1.201 mysql.quant.dev.dachengtech.cn
-192.168.1.201 zk.quant.dev.dachengtech.cn
-192.168.1.201 rabbitmq.quant.dev.dachengtech.cn
 
-# FOR SIT
-192.168.1.202 sina.snapshot.quant.sit.dachengtech.cn
-192.168.1.202 pentaho.quant.sit.dachengtech.cn
-192.168.1.202 airflow.quant.sit.dachengtech.cn
+# FOR SIT MIDDLEWARES
+192.168.1.202 airflow.sit.dachengtech.cn
+192.168.1.202 mongodb.sit.dachengtech.cn
+192.168.1.202 postgres.sit.dachengtech.cn
+192.168.1.202 redis.sit.dachengtech.cn
+192.168.1.202 mysql.sit.dachengtech.cn
+192.168.1.202 zk.sit.dachengtech.cn
+192.168.1.202 rabbitmq.sit.dachengtech.cn
+
+# FOR SIT QUANT
+192.168.1.202 master.quant.sit.dachengtech.cn
 192.168.1.202 dataprovider.quant.sit.dachengtech.cn
-192.168.1.202 mongodb.quant.sit.dachengtech.cn
-192.168.1.202 postgres.quant.sit.dachengtech.cn
-192.168.1.202 redis.quant.sit.dachengtech.cn
-192.168.1.202 mysql.quant.sit.dachengtech.cn
-192.168.1.202 zk.quant.sit.dachengtech.cn
